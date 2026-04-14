@@ -6,7 +6,7 @@ import { useRef } from "react";
 import * as THREE from "three";
 
 export default function Lamp() {
-  const { scene } = useGLTF("/models/lamp.glb");
+  const { scene } = useGLTF("/models/Lamp.glb");
   const ref = useRef<THREE.Object3D>(null);
 
   useFrame(() => {
