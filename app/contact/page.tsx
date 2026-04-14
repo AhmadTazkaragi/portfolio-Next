@@ -89,15 +89,15 @@ export default function ContactPage() {
 				{/* SOCIALS */}
 				<div className="flex justify-center gap-6 mt-8 text-sm text-muted-foreground">
 
-					<a href="https://github.com" target="_blank">
+					<a href="https://github.com/AhmadTazkaragi" target="_blank">
 						GitHub
 					</a>
 
-					<a href="https://linkedin.com" target="_blank">
+					<a href="https://www.linkedin.com/in/ahmad-tazkaragi-4948aa377/" target="_blank">
 						LinkedIn
 					</a>
 
-					<a href="mailto:your@email.com">
+					<a href="https://mail.google.com/mail/u/0/?to=tazkrhgeahmadamen@gmail.com&fs=1&tf=cm">
 						Email
 					</a>
 
